@@ -1,0 +1,15 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.2",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		}
+	],
+	"AdditionalPluginDirectories": [
+		"C:/Users/keval/OneDrive/Documents/PolygonFlow"
+	]
+}
