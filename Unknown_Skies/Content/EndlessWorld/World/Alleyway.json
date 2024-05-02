@@ -1,0 +1,71 @@
+{
+  "save": {
+    "version": 1,
+    "RuntimeFunctions": {},
+    "GnlTools": {
+      "5987681": {
+        "name": "Quick Pipe",
+        "identifier": 5987681,
+        "instances": {
+          "3492915": {
+            "identifier": 3492915,
+            "name": "Quick Pipe 0",
+            "visible": true,
+            "frozen": false,
+            "index": 0,
+            "properties": {
+              "f7600139bfdb": {},
+              "ba6ad2e7974c": {},
+              "68d63a1e7e38": {},
+              "a654e5727b87": {},
+              "015e8c326cc0": {},
+              "ab8eb159302a": {},
+              "b76c9fd5db8c": {},
+              "d134aa3fd532": {},
+              "9e95c500e355": {},
+              "7b3a980360cd": {},
+              "05b2949f781a": {},
+              "e5af1bd52ab2": {},
+              "79aea5e05185": {}
+            },
+            "result": []
+          }
+        },
+        "sourceID": 4230370
+      },
+      "4999273": {
+        "name": "Quick Pipe",
+        "identifier": 4999273,
+        "instances": {
+          "1456875": {
+            "identifier": 1456875,
+            "name": "Quick Pipe 0",
+            "visible": true,
+            "frozen": false,
+            "index": 0,
+            "properties": {
+              "f7600139bfdb": {},
+              "ba6ad2e7974c": {},
+              "68d63a1e7e38": {},
+              "a654e5727b87": {},
+              "015e8c326cc0": {},
+              "ab8eb159302a": {},
+              "b76c9fd5db8c": {},
+              "d134aa3fd532": {},
+              "9e95c500e355": {},
+              "7b3a980360cd": {},
+              "05b2949f781a": {},
+              "e5af1bd52ab2": {},
+              "79aea5e05185": {}
+            },
+            "result": []
+          }
+        },
+        "sourceID": 4230370
+      }
+    },
+    "ObjectTags": {},
+    "time": "2024-05-01 23:58:10"
+  },
+  "autosave": {}
+}
